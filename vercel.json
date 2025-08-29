@@ -1,8 +1,0 @@
-{
-  "rootDirectory": "seo-tags-checker",
-  "buildCommand": "npm run build",
-  "installCommand": "npm install",
-  "outputDirectory": "dist"
-}
-
-
